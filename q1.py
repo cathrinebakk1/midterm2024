@@ -6,4 +6,3 @@ print(a+3)
 a = a // 2
 print(a)
 
-print((2+3)*6/2
